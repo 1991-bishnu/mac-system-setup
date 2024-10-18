@@ -56,6 +56,11 @@ git username setup
 `brew install --cask docker`
 `docker --version`
 
+## Install podmam(substitute of docker)
+
+`brew install podman-desktop`
+`podman version`
+
 ## Install Oh my Zsh(Optional)
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
